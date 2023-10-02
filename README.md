@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicolas Adoniou</h1>
-<h3 align="center">Full-Stack Developer in training.</h3>
+<h3 align="center">JS Developer in training</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
