@@ -59,6 +59,10 @@
 <p align="left">
 <a> 
 <img src="" alt="French Flag" width="40" height="40"> Fluent </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekwebd&show_icons=true&locale=en" alt="nekwebd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekwebd&" alt="nekwebd" /></p>
 <a> 
 <img src="" alt="English Flag" width="40" height="40"> Fluent </a>
 <a> Notions
