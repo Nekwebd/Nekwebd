@@ -57,11 +57,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <h3 align="left">Languages</h3>
 <p align="left">
-<a> Français
-<img src="" alt="French Flag" width="40" height="40"> </a>
-<a> English
-<img src="" alt="English Flag" width="40" height="40"> </a>
-<a> Español
-<img src="" alt="Spanish Flag" width="40" height="40"> </a>
-<a> Greek
-<img src="" alt="Greek Flag" width="40" height="40"> </a>
+<a> 
+<img src="" alt="French Flag" width="40" height="40"> Fluent </a>
+<a> 
+<img src="" alt="English Flag" width="40" height="40"> Fluent </a>
+<a> Notions
+<img src="" alt="Spanish Flag" width="40" height="40"> Notions</a>
+<a> 
+<img src="" alt="Greek Flag" width="40" height="40"> Notions</a>
